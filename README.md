@@ -1,0 +1,2 @@
+# Gauss-Seidel
+kalkullator sederhana
